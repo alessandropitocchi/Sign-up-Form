@@ -10,6 +10,7 @@
 }
 
 .error{
+    margin-top: 5px;
     color:red;
 }
 
@@ -27,7 +28,7 @@ body{
 .container{
     background-color: var(--white-bg-color);
     width: 70%;
-    height: 120vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
 }
